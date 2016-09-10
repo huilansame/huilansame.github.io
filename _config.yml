@@ -1,7 +1,7 @@
 # Site settings
 title: 灰蓝
 url: "http://huilansame.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "http://huilansame.github.io" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+baseurl: "http://huilansame.github.io/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
   灰蓝的博客.
