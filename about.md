@@ -10,8 +10,11 @@ public: true
 感谢大家的支持，以下是我的一些联系方式，有什么关于自动化测试的问题，都欢迎跟我沟通交流：
 
 > **QQ**:396214358
+> 
 > **Email**:396214358@qq.com
+> 
 > **CSDN博客**:[http://blog.csdn.net/huilan_same](http://blog.csdn.net/huilan_same)
+> 
 > 你也可以通过这几个QQ群找到我：[219873826](点击链接加入群【selenium自动化测试②群】：http://jq.qq.com/?_wv=1027&k=29W8YFM),[151496851](点击链接加入群【Python_Selenium】：http://jq.qq.com/?_wv=1027&k=2DZ512r)(点击即可加群)
 
 

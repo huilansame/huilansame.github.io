@@ -2,7 +2,6 @@
 layout: post
 title:  "Python selenium —— 使用命令行参数向autoIT生成的exe中传参"
 date:   2016-09-07 09:10:15
-categories: jekyll update
 permalink: /archivers/cmd-params-to-autoit-exe
 ---
 

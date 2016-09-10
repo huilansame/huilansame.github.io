@@ -2,7 +2,6 @@
 layout: post
 title:  "Python selenium —— 常用的Keys按键"
 date:   2016-09-07 09:20:15
-categories: jekyll update
 permalink: /archivers/useful-keys
 ---
 

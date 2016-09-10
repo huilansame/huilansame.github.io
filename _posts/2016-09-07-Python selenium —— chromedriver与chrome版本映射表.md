@@ -2,7 +2,6 @@
 layout: post
 title:  "Python selenium —— chromedriver与chrome版本映射表"
 date:   2016-09-07 09:00:13
-categories: jekyll update
 permalink: /archivers/chromedriver-to-chrome-version
 ---
 
