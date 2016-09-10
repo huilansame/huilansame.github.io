@@ -7,10 +7,6 @@ permalink: /archivers/chromedriver-to-chrome-version
 ---
 
 
-> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
-
-****
-
 看到网上基本没有最新的chromedriver与chrome的对应关系表，便兴起整理了一份如下，希望对大家有用：
 
 |  chromedriver版本  |  支持的Chrome版本  |
@@ -37,5 +33,9 @@ permalink: /archivers/chromedriver-to-chrome-version
 
 **附：**
 所有chromedriver均可在下面链接中下载到：
+
 > [http://chromedriver.storage.googleapis.com/index.html](http://chromedriver.storage.googleapis.com/index.html)
 
+****
+
+> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**

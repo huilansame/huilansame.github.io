@@ -7,15 +7,11 @@ permalink: /archivers/cmd-params-to-autoit-exe
 ---
 
 
-> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
-
-****
-
 selenium对网页进行UI自动化时经常会遇到OS弹框，比如上传、下载框，对这种弹框，selenium无法处理，常常我们会选择autoit这个工具。
 
 想要参数化传入的参数，可以通过autoit的命令行参数：
 
-> myProg.exe param1 "This is a string parameter" 99 
+	D:\> myProg.exe param1 "This is a string parameter" 99 
 
 在脚本中，可用以下变量获取命令行参数：
 
@@ -48,7 +44,7 @@ ControlClick("文件上传", "","Button1");
 我们先通过命令行试试，打开网页上传弹框，然后在cmd中执行该脚本：
 
 ```batch
-> D:\upfile.exe "D:\1.html"
+D:\> upfile.exe "D:\1.html"
 ```
 
 成功！
@@ -76,3 +72,6 @@ driver.quit()
 
 当然，这里只是个示例，实际上对于这种input标签，我们直接send_keys就可以了。今后再专门讨论上传的处理。
 
+****
+
+> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
