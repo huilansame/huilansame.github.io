@@ -15,7 +15,8 @@ public: true
 > 
 > **CSDN博客**:[http://blog.csdn.net/huilan_same](http://blog.csdn.net/huilan_same)
 > 
-> 你也可以通过这几个QQ群找到我：[219873826](点击链接加入群【selenium自动化测试②群】：http://jq.qq.com/?_wv=1027&k=29W8YFM),[151496851](点击链接加入群【Python_Selenium】：http://jq.qq.com/?_wv=1027&k=2DZ512r)(点击即可加群)
+> 你也可以通过这几个QQ群找到我：[219873826](http://jq.qq.com/?_wv=1027&k=29W8YFM),[151496851](http://jq.qq.com/?_wv=1027&k=2DZ512r)(点击即可加群)
+ 
 
 
 ****

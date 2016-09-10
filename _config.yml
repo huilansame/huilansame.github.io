@@ -2,7 +2,7 @@
 title: 灰蓝
 url: "http://huilansame.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/huilansame.github.io" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
-timezone: Asia/Chongqing
+# timezone: Asia/Chongqing
 description: >
   灰蓝的博客.
 
@@ -13,11 +13,12 @@ avatar: "http://avatar.csdn.net/6/5/E/1_huilan_same.jpg"
 profile: 自动化测试工程师
 #twitter_username: twitter_username
 github_username:  huilansame
+csdn: huilan_same
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
 #disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-duoshuo_shortname: http://duoshuo.com/create-site/  # get one: http://duoshuo.com/create-site/
+duoshuo_shortname: huilansame  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
 gems:
