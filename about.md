@@ -3,6 +3,7 @@ layout: page
 title: 关于
 permalink: /about/
 public: true
+nocomments: true
 ---
 
 欢迎来到我的GitHub博客，本人是一位自动化测试工程师，擅长Python + selenium UI自动化，以及各种类型的接口自动化测试，之前在CSDN建立了博客并写了一些selenium的文章（**[传送门](http://blog.csdn.net/huilan_same)**），我会逐渐将文章搬到GitHub来，同时CSDN依然保持更新。
