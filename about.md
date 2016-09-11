@@ -28,10 +28,6 @@ nocomments: true
 > 
 > 你也可以通过以下QQ群找到我：[219873826](http://jq.qq.com/?_wv=1027&k=29W8YFM) , [151496851](http://jq.qq.com/?_wv=1027&k=2DZ512r)（点击即可加群）
  
-
-<br><br>
-
-
 ## 感谢
 
 最后还要感谢一下博客模板的提供者[laobubu](http://laobubu.net)，感谢提供这么漂亮简洁的[博客模板](https://github.com/laobubu/jekyll-theme-EasyBook)
