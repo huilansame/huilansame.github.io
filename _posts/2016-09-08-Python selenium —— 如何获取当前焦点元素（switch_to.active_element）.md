@@ -9,7 +9,7 @@ permalink: /archivers/switch-to-active-element
 
 今天我们讲讲`switch_to`家中的一个异类：`switch_to.active_element`，当然，我们先普及一下其他的家族成员。
 
-## **1.**`switch_to`
+## **1.`switch_to`**
 
 selenium做自动化的过程中，经常会遇到`alert`、`frame`和新的`window`，这是经常是`switch_to`家族大展拳脚的时候，先看看`switch_to`家族的成员：
 
@@ -34,7 +34,7 @@ selenium做自动化的过程中，经常会遇到`alert`、`frame`和新的`win
 
 在这里需要特别说明一下的是不支持的用法~~`switch_to_alert()`~~，如果你在pycharm或者eclipse上编辑，会发现这样的方法被划上了删除线，意思是告诉你这个用法已经不被支持，今后很有可能被废除，不建议继续使用。所以，如果你不想你的脚本哪天升级后不能运行，那就不要用这种old style了，用`switch_to.alert()`类的方法吧。
 
-## **2.**`switch_to.active_element`
+## **2.`switch_to.active_element`**
 
 > **switch_to.active_element**返回的是当前**焦点**的对象，即返回WebElement对象。
 
