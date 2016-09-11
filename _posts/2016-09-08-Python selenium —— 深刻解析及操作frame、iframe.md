@@ -25,7 +25,7 @@ selenium提供了`switch_to.frame()`方法来切换frame
 switch_to.frame(reference)
 ```
 
-不得不提到`switch\_to\_frame(reference)`，很多人在这样写的时候会发现，这句话被划上了删除线，原因是这个方法已经out了，之后很有可能会不支持，建议的写法是`switch_to.frame(reference)`
+不得不提到`switch_to_frame(reference)`，很多人在这样写的时候会发现，这句话被划上了删除线，原因是这个方法已经out了，之后很有可能会不支持，建议的写法是`switch_to.frame(reference)`
 
 `reference`是传入的参数，用来定位frame，可以传入id、name、index以及selenium的WebElement对象，假设有如下HTML代码 index.html：
 
@@ -69,7 +69,7 @@ driver.switch_to.frame(0)  # 1.用frame的index来定位，第一个是0
 driver.switch_to.frame(driver.find_element_by_xpath("//iframe[contains(@src,'myframe')]"))
 ```
 
-## **2.从frame中切回主文档(`switch\_to.default\_content()`)**
+## **2.从frame中切回主文档(`switch_to.default_content()`)**
 
 切到frame中之后，我们便不能继续操作主文档的元素，这时如果想操作主文档内容，则需切回主文档。
 
@@ -77,7 +77,7 @@ driver.switch_to.frame(driver.find_element_by_xpath("//iframe[contains(@src,'myf
 driver.switch_to.default_content()
 ```
 
-## **3.嵌套frame的操作(`switch\_to.parent_frame()`)**
+## **3.嵌套frame的操作(`switch_to.parent_frame()`)**
 
 有时候我们会遇到嵌套的frame，如下：
 
@@ -92,8 +92,8 @@ driver.switch_to.default_content()
 1.从主文档切到frame2，一层层切进去
 
 ```python
-driver.switch_to.frame("frame1")
-driver.switch_to.frame("frame2")
+driver.switch_to.frame("frame1")  # 先切到frame1
+driver.switch_to.frame("frame2")  # 再切到frame2
 ```
 
 2.从frame2再切回frame1，这里selenium给我们提供了一个方法能够从子frame切回到父frame，而不用我们切回主文档再切进来。
@@ -102,7 +102,7 @@ driver.switch_to.frame("frame2")
 driver.switch_to.parent_frame()  # 如果当前已是主文档，则无效果
 ```
 
-有了parent_frame()这个相当于后退的方法，我们可以随意切换不同的frame，随意的跳来跳去了。
+有了`parent_frame()`这个相当于后退的方法，我们可以随意切换不同的frame，随意的跳来跳去了。
 
 所以只要善用以下三个方法，遇到frame分分钟搞定：
 

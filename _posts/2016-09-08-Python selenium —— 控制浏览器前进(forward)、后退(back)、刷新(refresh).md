@@ -7,7 +7,7 @@ permalink: /archivers/forward-back-refresh
 ---
 
 
-今天这几个方法非常简单，就是我们能看到的浏览器导航栏的三个按钮 —— 后退、前进、刷新
+今天这几个方法非常简单，就是我们能看到的浏览器导航栏的三个按钮 —— `后退`、`前进`、`刷新`
 
 ![导航栏按钮](http://img.blog.csdn.net/20160828092036944)
 
@@ -60,13 +60,14 @@ https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%
 
 那么什么时候会用呢？
 
-一种情况就是，当你从一个父页面跳转到子页面进行操作，操作完之后没有“返回”之类的按钮或链接，重新进入父页面又很麻烦，back()可以帮你。forward()与此类似，相对没有back()那么常用。
+一种情况就是，当你从一个父页面跳转到子页面进行操作，操作完之后没有“返回”之类的按钮或链接，重新进入父页面又很麻烦，`back()`可以帮你。`forward()`与此类似，相对没有`back()`那么常用。
 
-当你修改了页面信息但是没有即时刷新时，可以手动refresh()。
+当你修改了页面信息但是没有即时刷新时，可以手动`refresh()`。
 
 **不过需要注意：**
 
 > **当你前进并退回原来的页面或刷新页面之后，页面的元素id是改变了的。不要妄图用原来定位好的WebElement去操作现在的页面元素！否则会出现如下报错：**
+> 
 > selenium.common.exceptions.StaleElementReferenceException: Message: Element not found in the cache - perhaps the page has changed since it was looked up
 
 代码示例下：
