@@ -112,7 +112,6 @@ driver.switch_to.parent_frame()
 driver.switch_to.default_content()
 ```
 
-*****
 
 ##**补充**
 另外补充一下，之前曾看到过用点分法来切入嵌套frame的方法，但我试验之后发现并不能定位到frame，如果有同学可以成功，麻烦留言告知一下，用法如下：
