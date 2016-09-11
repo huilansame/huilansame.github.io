@@ -7,7 +7,7 @@ permalink: /archivers/switch-to-frame
 ---
 
 
-很多人在用selenium定位页面元素的时候会遇到定位不到的问题，明明元素就在那儿，就是定位不到，这种情况很有可能是_frame_在搞鬼（可能原因之一，改天专门说说定位不到元素的原因及处理办法），仔细看看你网页的DOM树！
+很多人在用selenium定位页面元素的时候会遇到定位不到的问题，明明元素就在那儿，就是定位不到，这种情况很有可能是_frame在搞鬼（可能原因之一，改天专门说说定位不到元素的原因及处理办法），仔细看看你网页的DOM树！
 
 **frame**标签有frameset、frame、iframe三种，**frameset跟其他普通标签没有区别，不会影响到正常的定位**，而frame与iframe对selenium定位而言是一样的，selenium有一组方法对frame进行操作：
 
@@ -54,7 +54,7 @@ driver.switch_to.frame(0)  # 1.用frame的index来定位，第一个是0
 
 通常采用id和name就能够解决绝大多数问题。但有时候frame并无这两项属性，则可以用index和WebElement来定位：
 
-- index从_0_开始，传入整型参数即判定为用index定位，传入str参数则判定为用id/name定位
+- index从_0开始，传入整型参数即判定为用index定位，传入str参数则判定为用id/name定位
 - WebElement对象，即用find\_element系列方法所取得的对象，我们可以用tag_name、xpath等来定位frame对象
 
 举个栗子：
