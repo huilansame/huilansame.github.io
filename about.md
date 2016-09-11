@@ -31,7 +31,6 @@ nocomments: true
 
 <br><br>
 
-****
 
 ## 感谢
 
