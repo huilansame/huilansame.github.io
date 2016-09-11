@@ -144,7 +144,7 @@ Hello world again again!
 ```
 
 其实`frame editor`的内容一般都是写在里面的`<body>`里，最重要的就是切到`frame`中去，关于`frame`的定位于switch，见我的博客：
-**[selenium之 定位以及切换frame（iframe） ](http://blog.csdn.net/huilan_same/article/details/52200586)**
+**[Python selenium —— 深刻解析及操作frame、iframe ](https://huilansame.github.io/huilansame.github.io/archivers/switch-to-frame)**
 
 frame中一般是一个空的html，其中显示的内容即是body中的内容。
 
@@ -152,4 +152,4 @@ frame中一般是一个空的html，其中显示的内容即是body中的内容�
 
 ****
 
-> 更多关于python selenium的文章，请关注我的专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
+> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**

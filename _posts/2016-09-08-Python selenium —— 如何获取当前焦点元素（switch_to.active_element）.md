@@ -27,8 +27,8 @@ selenium做自动化的过程中，经常会遇到`alert`、`frame`和新的`win
 
 其中：
 
-- `alert`和`window`的操作在之前的博客**[selenium之 辨识alert、window以及操作](http://blog.csdn.net/huilan_same/article/details/52298460)**中已经讲到
-- 关于`frame`的三个方法也在之前的博客**[selenium之 定位以及切换frame（iframe）](http://blog.csdn.net/huilan_same/article/details/52200586)**中已经讲到
+- `alert`和`window`的操作在之前的博客**[Python selenium —— 教你分辨alert、window、div模态框，以及操作](https://huilansame.github.io/huilansame.github.io/archivers/switch-to-alert-window-div)**中已经讲到
+- 关于`frame`的三个方法也在之前的博客**[Python selenium —— 深刻解析及操作frame、iframe](https://huilansame.github.io/huilansame.github.io/archivers/switch-to-frame)**中已经讲到
 
 唯一没有说到的就是`switch_to`家族中的`active_element`，这个家伙不常被用到，所以也容易被人遗忘，在网上也很少找到关于它的介绍。但是，存在的即是合理的，它也必然有它存在的意义。
 

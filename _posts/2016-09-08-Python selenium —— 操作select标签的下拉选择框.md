@@ -211,5 +211,5 @@ o2
 
 ****
 
-> 更多关于python selenium的文章，请关注我的专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
+> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
 

@@ -61,7 +61,7 @@ baidu.py
 
 **1. autoIT**
 
-关于autoIT上传以及参数化的方法我已经在另一篇博文中讲过了，请参见*[selenium之 autoit命令行参数 ](http://blog.csdn.net/huilan_same/article/details/52208363)*。这里不再赘述。
+关于autoIT上传以及参数化的方法我已经在另一篇博文中讲过了，请参见*[Python selenium —— 使用命令行参数向autoIT生成的exe中传参](https://huilansame.github.io/huilansame.github.io/archivers/cmd-params-to-autoit-exe)*。这里不再赘述。
 
 **2.win32gui**
 
@@ -269,4 +269,4 @@ dr.quit()
 
 *****
 
-> 更多关于python selenium的文章，请关注我的专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
+> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**

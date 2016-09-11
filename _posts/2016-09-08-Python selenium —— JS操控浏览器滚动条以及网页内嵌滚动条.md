@@ -8,7 +8,7 @@ permalink: /archivers/browser-scroll-bar
 
 今天博主给大家分享一下用JS控制浏览器滚动条的办法。
 
-## 1.兼容Firefox、Chrome、IE的浏览器滚动JS
+## **1.兼容Firefox、Chrome、IE的浏览器滚动JS**
 
 经常有人会发现自己写的JS能够控制某个浏览器滚动条，但是却在另一个浏览器上不灵了，博主今天带给大家集中能够兼容Firefox、Chrome以及IE的滚动条滚动方法：
 
@@ -30,7 +30,7 @@ document.documentElement.scrollTop = 300; // Chrome 不可以 document.documentE
 
 参考：**[传送门](http://liyaoli.com/2015-08-17/about-scroll.html)**
 
-## 2.如何控制浏览器内嵌div的滚动条
+## **2.如何控制浏览器内嵌div的滚动条**
 
 
 很多人疑惑怎么用selenium控制网页div中滚动条的滚动，其实这个问题很简单，用JS很简单就可以实现。

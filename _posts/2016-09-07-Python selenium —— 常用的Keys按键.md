@@ -33,9 +33,9 @@ selenium就为我们提供了一个`Keys`类，其中提供了很多常用的不
 
 基本上我们会用到的不多，常用的大概就是`CONTROL`、`SPACE`、`ENTER`。
 
-- `CONTROL`可以和其他键合用，实现复制、剪切等功能，见：[http://blog.csdn.net/huilan_same/article/details/52305176](http://blog.csdn.net/huilan_same/article/details/52305176)
+- `CONTROL`可以和其他键合用，实现复制、剪切等功能，见：[Python selenium —— 模拟鼠标键盘操作(ActionChains)](https://huilansame.github.io/huilansame.github.io/archivers/mouse-and-keyboard-actionchains)
 
-- `SPACE`可用来选中check box或者radio button，见[http://blog.csdn.net/huilan_same/article/details/52287955](http://blog.csdn.net/huilan_same/article/details/52287955)
+- `SPACE`可用来选中check box或者radio button，见[Python selenium —— 搞定网页单选框(radio button)、复选框(checkbox)](https://huilansame.github.io/huilansame.github.io/archivers/radio-button-checkbox)
 
 - `ENTER`键可用来提交form表单。
 
@@ -44,4 +44,4 @@ selenium就为我们提供了一个`Keys`类，其中提供了很多常用的不
 
 ****
 
-> 更多关于python selenium的文章，请关注我的专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
+> 更多关于python selenium的文章，请关注我的CSDN专栏：**[Python Selenium自动化测试详解](http://blog.csdn.net/column/details/12694.html)**
