@@ -11,6 +11,8 @@ permalink: /archivers/chromedriver-to-chrome-version
 
 |  chromedriver版本  |  支持的Chrome版本  |
 |  :--:  |  :--:  |
+| v2.24 | v52-54 |
+| v2.23 | v51-53 |
 | v2.22 | v49-52 |
 | v2.21 | v46-50 |
 | v2.20 | v43-48 |
