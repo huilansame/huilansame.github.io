@@ -22,7 +22,7 @@ nocomments: true
 
 > **QQ** : 396214358
 > 
-> **Email** : 396214358@qq.com
+> **Email** : huilansame@gmail.com
 > 
 > **CSDN博客**:[http://blog.csdn.net/huilan_same](http://blog.csdn.net/huilan_same)
 > 
