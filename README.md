@@ -24,4 +24,4 @@
 ## 联系方式
 
 - QQ : 396214358
-- EMAIL : 396214358@qq.com 
+- EMAIL : huilansame@gmail.com
