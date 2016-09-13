@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python selenium —— 怎么处理文本编辑框（富文本框以及editor编辑器）"
+title:  "Python selenium —— 怎么处理文本编辑框（textarea以及editor编辑器）"
 date:   2016-09-09 15:50:15
 categories: selenium
 permalink: /archivers/input-textarea-editor

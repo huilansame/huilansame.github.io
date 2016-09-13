@@ -21,13 +21,13 @@ nocomments: true
 感谢大家的支持，以下是我的一些联系方式，有什么关于自动化测试的问题，都欢迎跟我沟通交流：
 
 > **QQ** : 396214358
-> 
-> **Email** : 396214358@qq.com
-> 
+>
+> **Email** : huilansame@gmail.com
+>
 > **CSDN博客**:[http://blog.csdn.net/huilan_same](http://blog.csdn.net/huilan_same)
-> 
+>
 > 你也可以通过以下QQ群找到我：[219873826](http://jq.qq.com/?_wv=1027&k=29W8YFM) , [151496851](http://jq.qq.com/?_wv=1027&k=2DZ512r)（点击即可加群）
- 
+
 ## 感谢
 
 最后还要感谢一下博客模板的提供者[laobubu](http://laobubu.net)，感谢提供这么漂亮简洁的[博客模板](https://github.com/laobubu/jekyll-theme-EasyBook)
