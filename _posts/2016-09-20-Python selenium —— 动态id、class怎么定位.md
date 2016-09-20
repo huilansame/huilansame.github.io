@@ -36,7 +36,7 @@ permalink: /archivers/how-locate-dynamic-id
 
 xpath中提供了三个非常好的方法来为我们定位部分属性值：
 
-```
+```python
 driver.find_element_by_xpath("//div[contains(@id, 'btn-attention')]")
 driver.find_element_by_xpath("//div[starts-with(@id, 'btn-attention')]")
 driver.find_element_by_xpath("//div[ends-with(@id, 'btn-attention')]")  # 这个需要结尾是‘btn-attention’
