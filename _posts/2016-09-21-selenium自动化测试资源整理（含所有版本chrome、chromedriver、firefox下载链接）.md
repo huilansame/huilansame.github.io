@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "selenium自动化测试资源整理（含所有版本chrome、chromedriver、firefox下载链接）.md"
+title:  "selenium自动化测试资源整理（含所有版本chrome、chromedriver、firefox下载链接）"
 date:   2016-09-21 22:45:13
 categories: selenium
 permalink: /archivers/selenium-resources
