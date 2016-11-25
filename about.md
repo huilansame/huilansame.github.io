@@ -27,7 +27,7 @@ nocomments: true
 >
 > **CSDN博客**:[http://blog.csdn.net/huilan_same](http://blog.csdn.net/huilan_same)
 >
-> 你也可以通过以下QQ群找到我：[219873826](http://jq.qq.com/?_wv=1027&k=29W8YFM) , [151496851](http://jq.qq.com/?_wv=1027&k=2DZ512r)（点击即可加群）
+> 你也可以通过以下QQ群找到我：[455478219](https://jq.qq.com/?_wv=1027&k=41q8Baq) , [151496851](http://jq.qq.com/?_wv=1027&k=2DZ512r)（点击即可加群）
 
 ## 感谢
 
